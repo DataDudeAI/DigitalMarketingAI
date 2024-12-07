@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/DataDudeAI/DigitalMarketingAI.git
 cd repo-name
 Install dependencies:
 
